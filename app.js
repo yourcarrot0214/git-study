@@ -3,3 +3,5 @@ const TITLE = "GIT STUDY";
 function printMessage(message) {
   return console.log(message);
 }
+
+// cat merge 이후 master 브랜치 작업 진행 1
