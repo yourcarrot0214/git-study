@@ -7,3 +7,6 @@ function printMessage(message) {
 // master : commit 1
 // master : commit 2
 // master : commit 3
+
+// cat : commit 1
+// cat : commit 2
