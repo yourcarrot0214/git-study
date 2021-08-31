@@ -18,3 +18,4 @@ class Cat {
 // cat : rebase test하기
 
 // cat : 고양이 정보 업데이트 기능 구현
+// cat : 고양이 위치 추적 기능 구현
