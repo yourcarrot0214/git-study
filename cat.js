@@ -16,3 +16,5 @@ class Cat {
 
 // git pull origin master 이후 cat 브랜치 작업 1
 // cat : rebase test하기
+
+// cat : 고양이 정보 업데이트 기능 구현
