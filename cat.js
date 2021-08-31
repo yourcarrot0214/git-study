@@ -8,3 +8,5 @@ class Cat {
     console.log(`cat name : ${name}`);
   }
 }
+
+// cat : commit 1
