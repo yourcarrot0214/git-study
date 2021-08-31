@@ -5,3 +5,4 @@ function printMessage(message) {
 }
 
 // cat : commit 1
+// cat : commit 2
