@@ -9,3 +9,4 @@ function printMessage(message) {
 
 // master : 메인 페이지 구성
 // master : 네비게이션 메뉴 구성
+// master : 라우터 구성
